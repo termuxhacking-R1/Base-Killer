@@ -25,7 +25,7 @@ Decode Base16, Base32, Base36, Base58, Base62, Base64, Base64Url, Base85, Base91
 
 ## Installation
 ```
-    $ git clone https://github.com/termuxhacking-R1/BaseKiller
+    $ git clone https://github.com/termuxhacking-R1/Base-Killer
     $ cd BaseKiller
     $ pip install -r requirements.txt
     $ python basekiller -h
