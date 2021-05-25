@@ -26,13 +26,13 @@ Decode Base16, Base32, Base36, Base58, Base62, Base64, Base64Url, Base85, Base91
 ## Installation
 ```
     $ git clone https://github.com/termuxhacking-R1/Base-Killer
-    $ cd BaseKiller
+    $ cd Base-Killer
     $ pip install -r requirements.txt
     $ python basekiller -h
 ```
 
 ## Screenshot
-![Screenshot](https://i.postimg.cc/L8pbHYbx/Screenshot-20201104-050209-Termux.jpg) 
+[![Screensho](https://i.postimg.cc/bw090t0X/Screenshot-at-2021-05-25-13-28-07.png)](https://postimg.cc/HrxMdjP3)
 
 ## Usage
 ```
